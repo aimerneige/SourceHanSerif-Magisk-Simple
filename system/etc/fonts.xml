@@ -40,15 +40,15 @@
    </family>
     <!-- lxgw 注：其次调用自定义字体，自定义字体将在 CJK 部分再次调用 -->
     <family>
-        <font weight="100" style="normal">fontw1.ttf</font>
-        <font weight="200" style="normal">fontw2.ttf</font>
-        <font weight="300" style="normal">fontw3.ttf</font>
-        <font weight="400" style="normal">fontw4.ttf</font>
-        <font weight="500" style="normal">fontw5.ttf</font>
-        <font weight="600" style="normal">fontw6.ttf</font>
-        <font weight="700" style="normal">fontw7.ttf</font>
-        <font weight="800" style="normal">fontw8.ttf</font>
-        <font weight="900" style="normal">fontw9.ttf</font>
+        <font weight="100" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="200" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="300" style="normal">SourceHanSerifCN-Light.otf</font>
+        <font weight="400" style="normal">SourceHanSerifCN-Regular.otf</font>
+        <font weight="500" style="normal">SourceHanSerifCN-Meduim.otf</font>
+        <font weight="600" style="normal">SourceHanSerifCN-SemiBold.otf</font>
+        <font weight="700" style="normal">SourceHanSerifCN-Bold.otf</font>
+        <font weight="800" style="normal">SourceHanSerifCN-Heavy.otf</font>
+        <font weight="900" style="normal">SourceHanSerifCN-Heavy.otf</font>
    </family>
     <!-- lxgw 注：调用静态 Roboto 兼容 Android 11 -->
     <family>
@@ -1501,48 +1501,48 @@
     </family>
     <!-- lxgw 注：自定义 CJK 字体 -->
     <family lang="zh-Hans">
-        <font weight="100" style="normal">fontw1.ttf</font>
-        <font weight="200" style="normal">fontw2.ttf</font>
-        <font weight="300" style="normal">fontw3.ttf</font>
-        <font weight="400" style="normal">fontw4.ttf</font>
-        <font weight="500" style="normal">fontw5.ttf</font>
-        <font weight="600" style="normal">fontw6.ttf</font>
-        <font weight="700" style="normal">fontw7.ttf</font>
-        <font weight="800" style="normal">fontw8.ttf</font>
-        <font weight="900" style="normal">fontw9.ttf</font>
+        <font weight="100" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="200" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="300" style="normal">SourceHanSerifCN-Light.otf</font>
+        <font weight="400" style="normal">SourceHanSerifCN-Regular.otf</font>
+        <font weight="500" style="normal">SourceHanSerifCN-Meduim.otf</font>
+        <font weight="600" style="normal">SourceHanSerifCN-SemiBold.otf</font>
+        <font weight="700" style="normal">SourceHanSerifCN-Bold.otf</font>
+        <font weight="800" style="normal">SourceHanSerifCN-Heavy.otf</font>
+        <font weight="900" style="normal">SourceHanSerifCN-Heavy.otf</font>
     </family>
     <family lang="zh-Hant">
-        <font weight="100" style="normal">fontw1.ttf</font>
-        <font weight="200" style="normal">fontw2.ttf</font>
-        <font weight="300" style="normal">fontw3.ttf</font>
-        <font weight="400" style="normal">fontw4.ttf</font>
-        <font weight="500" style="normal">fontw5.ttf</font>
-        <font weight="600" style="normal">fontw6.ttf</font>
-        <font weight="700" style="normal">fontw7.ttf</font>
-        <font weight="800" style="normal">fontw8.ttf</font>
-        <font weight="900" style="normal">fontw9.ttf</font>
+        <font weight="100" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="200" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="300" style="normal">SourceHanSerifCN-Light.otf</font>
+        <font weight="400" style="normal">SourceHanSerifCN-Regular.otf</font>
+        <font weight="500" style="normal">SourceHanSerifCN-Meduim.otf</font>
+        <font weight="600" style="normal">SourceHanSerifCN-SemiBold.otf</font>
+        <font weight="700" style="normal">SourceHanSerifCN-Bold.otf</font>
+        <font weight="800" style="normal">SourceHanSerifCN-Heavy.otf</font>
+        <font weight="900" style="normal">SourceHanSerifCN-Heavy.otf</font>
     </family>
     <family lang="ja">
-        <font weight="100" style="normal">fontw1.ttf</font>
-        <font weight="200" style="normal">fontw2.ttf</font>
-        <font weight="300" style="normal">fontw3.ttf</font>
-        <font weight="400" style="normal">fontw4.ttf</font>
-        <font weight="500" style="normal">fontw5.ttf</font>
-        <font weight="600" style="normal">fontw6.ttf</font>
-        <font weight="700" style="normal">fontw7.ttf</font>
-        <font weight="800" style="normal">fontw8.ttf</font>
-        <font weight="900" style="normal">fontw9.ttf</font>
+        <font weight="100" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="200" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="300" style="normal">SourceHanSerifCN-Light.otf</font>
+        <font weight="400" style="normal">SourceHanSerifCN-Regular.otf</font>
+        <font weight="500" style="normal">SourceHanSerifCN-Meduim.otf</font>
+        <font weight="600" style="normal">SourceHanSerifCN-SemiBold.otf</font>
+        <font weight="700" style="normal">SourceHanSerifCN-Bold.otf</font>
+        <font weight="800" style="normal">SourceHanSerifCN-Heavy.otf</font>
+        <font weight="900" style="normal">SourceHanSerifCN-Heavy.otf</font>
     </family>
     <family lang="ko">
-        <font weight="100" style="normal">fontw1.ttf</font>
-        <font weight="200" style="normal">fontw2.ttf</font>
-        <font weight="300" style="normal">fontw3.ttf</font>
-        <font weight="400" style="normal">fontw4.ttf</font>
-        <font weight="500" style="normal">fontw5.ttf</font>
-        <font weight="600" style="normal">fontw6.ttf</font>
-        <font weight="700" style="normal">fontw7.ttf</font>
-        <font weight="800" style="normal">fontw8.ttf</font>
-        <font weight="900" style="normal">fontw9.ttf</font>
+        <font weight="100" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="200" style="normal">SourceHanSerifCN-ExtraLight.otf</font>
+        <font weight="300" style="normal">SourceHanSerifCN-Light.otf</font>
+        <font weight="400" style="normal">SourceHanSerifCN-Regular.otf</font>
+        <font weight="500" style="normal">SourceHanSerifCN-Meduim.otf</font>
+        <font weight="600" style="normal">SourceHanSerifCN-SemiBold.otf</font>
+        <font weight="700" style="normal">SourceHanSerifCN-Bold.otf</font>
+        <font weight="800" style="normal">SourceHanSerifCN-Heavy.otf</font>
+        <font weight="900" style="normal">SourceHanSerifCN-Heavy.otf</font>
     </family>
     <!-- lxgw 注：自定义 CJK 字体 （终）-->
     <!-- lxgw 注：后垫 Android 自带思源黑体，确保 CJK 不缺字 -->
