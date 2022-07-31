@@ -11,7 +11,7 @@
 ## 下载
 
 1. 在 GitHub 直接下载：<https://github.com/aimerneige/SourceHanSerif-Magisk-Simple/releases>
-2. 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/sourcehanserif-magisk-simple-v1.0.220731.zip>
+2. 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/sourcehanserif-magisk-simple-v1.1.220731.zip>
 
 ## 打包
 
