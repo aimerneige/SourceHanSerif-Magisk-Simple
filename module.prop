@@ -1,7 +1,6 @@
-# id 只能填 字母 数字 半角符号
-id=FontTemplateS
-name=TTF 字体套用模板（多字重）
-version=Simple v3.3.220605
+id=com.aimerneige.source.han.serif
+name=SourceHanSerif-Magisk-Simple
+version=Simple v1.0.220731
 versionCode=1
-author=lxgw (github.com/lxgw)
-description=用于制作 Magisk 字体模块，支持 9 个字重，每个字重各一个 ttf 文件。微信公众号：霞鹜（lxgwshare）；微博：孤鹜先森；酷安/少数派：落霞孤鹜lxgw。 GitHub 项目地址：https://github.com/lxgw/simple-cjk-font-magisk-module-template ，使用说明请见 README.md 文件。
+author=AimerNeige (github.com/aimerneige)
+description=使用「CJK 字体 Magisk 模块模板 简易版」制作的「思源宋体」字体模块。
